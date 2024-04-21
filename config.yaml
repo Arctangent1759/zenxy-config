@@ -116,4 +116,4 @@ user_outputs:
   digital2_pin: NO_PIN
   digital3_pin: NO_PIN
 start:
-  must_home: false
+  must_home: true
